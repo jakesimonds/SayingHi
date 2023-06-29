@@ -3,7 +3,7 @@
 This is a Potemkin Village of a project, I am trying to write 'hi' in the green squares where it shows your github activity. 
 
 
-# July 29th
+# June 29th
 I am updating this readme with the following support documentation: 
 
 <img src="figs/calendar.png" width=550>
