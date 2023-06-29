@@ -22,7 +22,7 @@ So then I almost did a bootcamp. Almost did two, one that would have started in 
 
 I also should mention at this point two years ago I had the most money I'd ever had. Coffers are full. Coffers are full because of the Golden Unemployment of Covid, followed by full time employment while living with my parents, so what I did next was I went to Oaxaca, Mexico. My second or third day there I finished my application to Northeastern, which was a little daunting, because I was applying to Computer School and the form had a place to put Computer Experience and...
 
-<img src="figs/Computer_Experience_Jake_Simonds.pdf" width=550>
+<img src="figs/Computer_Experience_Jake_Simonds.png" width=550>
 
 I mean, looking at it now I really should have lied. Or been more creative. Now after 18 months of grad school I see software through a wider lens and could brainstorm all kinds of things I did in the first 29 years of my life that would have been relevant on a form like this (using weird ticketing software for theatre festivals, making and updating a website, blogging intermitantly, etc (if you, reader, are thinking about getting into tech that might be an interesting place to start. Where is interfacing with sofware (or hardware) already a part of your life?). But they did let me in, and so I started school January 2022. 
 
