@@ -52,23 +52,35 @@ My idea was to pass some essence of a concept only present in dummy2 on to dummy
 
 <img src="figs/microscopic.png" width=550>
 
-dummy1 = "painting of a normal sized polar bear"
-dummy2 = "painting of a microscopic sized polar bear"
-dummy3 = "painting of a normal sized panda bear"
+**dummy1 = "painting of a normal sized polar bear"**
+
+**dummy2 = "painting of a microscopic sized polar bear"**
+
+**dummy3 = "painting of a normal sized panda bear"**
+
+**What's displayed: dummy3 ~+ (dummy1 ~- dummy2)**
 
 
 <img src="figs/pineapple.png" width=550>
 
-dummy1 = "still life of a coffee mug"
-dummy2 = "still life of a banana"
-dummy3 = "still life of banana and pineapple"
 
+**dummy1 = "still life of banana and pineapple"**
+
+**dummy2 = "still life of a banana"**
+
+**dummy3 = "still life of a coffee mug"**
+
+**What's displayed: dummy3 ~+ (dummy1 ~- dummy2)**
 
 <img src="figs/banana.png" width=550>
 
-dummy1 = "still life of a coffee mug"
-dummy2 = "still life of a pineapple"
-dummy3 = "still life of banana and pineapple"
+**dummy1 = "still life of pineapple and banana"**
+
+**dummy2 = "still life of a pineapple"**
+
+**dummy3 = "still life of a coffee mug"**
+
+**What's displayed: dummy3 ~+ (dummy1 ~- dummy2)**
 
 These were the successful images. There were probably 50+ unsuccessful images, which only made these limited successes more maddening. 
 
