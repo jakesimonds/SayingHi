@@ -94,3 +94,16 @@ I mean, like, I multiplied the entire embedding by some arbitrary value. And we 
 
 I'm phrasing that as a question because if anyone reading this has a sense of what's going on I'd really love to know lol. 
 
+# July 1st
+
+### Small Creative Things
+
+I buy junk electronics at the goodwill and take them home, and under the light of a screwy lamp that turns on and off by plugging unplugging it from the outlet (because I took it apart, and then couldn't put it back together quite right) I disassemble. 
+
+I disassemble with lovely little specialty screw drivers. I unscrew and pull apart and try to only break the cosmetic plastic parts, and then only if I have to. When I get down as far as my abilities or curiousity will take me, there's sometimes awe. Sometimes not so much. 
+
+I'm insecure about how little I can do. I successfully switched out little toy speakers once by splicing wires together. I have my Dad's soldering iron, but the thought of the airborn whatever drifting around my studio apartment stresses me out and I don't wanna go to all the trouble of ventilating properly. 
+
+Mostly I just disassemble, and then either reassemle, or if that doesn't seem worthwhile I just put all the component parts in a big half-gallon clear plastic zip lock. I look up obscure fcc codes and read manuals. I watch strange youtube videos. I think about the data that lives in those little toys and I wish I could wave a wand and pull it out. I'm playing around with VCV Rack virtual synthesizers to learn the fundamentals so maybe I can start circuit bending these toy keyboards I'm accumulating. 
+
+I am patient. I don't eat when I work and I wash my hands after touching all the weird components. I don't know what it is, but I feel I'm learning something. 
