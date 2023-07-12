@@ -107,3 +107,12 @@ I'm insecure about how little I can do. I successfully switched out little toy s
 Mostly I just disassemble, and then either reassemle, or if that doesn't seem worthwhile I just put all the component parts in a big half-gallon clear plastic zip lock. I look up obscure fcc codes and read manuals. I watch strange youtube videos. I think about the data that lives in those little toys and I wish I could wave a wand and pull it out. I'm playing around with VCV Rack virtual synthesizers to learn the fundamentals so maybe I can start circuit bending these toy keyboards I'm accumulating. 
 
 I am patient. I don't eat when I work and I wash my hands after touching all the weird components. I don't know what it is, but I feel I'm learning something. 
+
+# July 12th
+
+### Who knew getting added to an organization counts as activity?!?
+
+Project is ruined. Which honestly I knew would happen, but I imagined it would be from forgetting. Started a new job last week, was added to the organization github, didn't think anything of it since I figured I certainly wouldn't be contributing any code in my first week (correct), but didn't realize I'd get a green check for just joining! Bummer. Whatever. 
+
+Am on my lunch break right now and want to spend said lunch break not looking at a screen so this is all today. 
+
