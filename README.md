@@ -123,3 +123,8 @@ Am on my lunch break right now and want to spend said lunch break not looking at
 https://www.netflix.com/watch/80986859?t=600
 
 
+# July 15th
+
+### last push 
+
+...
