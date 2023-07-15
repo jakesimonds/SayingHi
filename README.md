@@ -116,3 +116,10 @@ Project is ruined. Which honestly I knew would happen, but I imagined it would b
 
 Am on my lunch break right now and want to spend said lunch break not looking at a screen so this is all today. 
 
+# July 14th
+
+### Fri-Day Night
+
+https://www.netflix.com/watch/80986859?t=600
+
+
