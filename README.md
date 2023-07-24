@@ -2,6 +2,7 @@
 
 This is a Potemkin Village of a project, I am trying to write 'hi' in the green squares where it shows your github activity. 
 
+(small edit)
 
 # June 29th
 I am updating this readme with the following support documentation: 
